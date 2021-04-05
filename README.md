@@ -206,7 +206,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=stevenfukase&theme=blue-green&show_icons=true&locale=en&count_private=true&hide=stars"
@@ -214,7 +214,7 @@
   />
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=stevenfukase&theme=highcontrast"
