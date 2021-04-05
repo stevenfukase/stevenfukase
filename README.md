@@ -209,7 +209,15 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=stevenfukase&theme=blue-green&show_icons=true&locale=en&count_private=true&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=stevenfukase&theme=blue-green&show_icons=true&locale=en&count_private=true&hide=stars&include_all_commits=true"
+    alt="stevenfukase"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfukase&theme=blue-green&locale=en"
     alt="stevenfukase"
   />
 </p>
