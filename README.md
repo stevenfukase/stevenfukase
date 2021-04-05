@@ -217,7 +217,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=stevenfukase&theme=blue-green&layout=compact&locale=en"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfukase&theme=blue-green&layout=compact&locale=en"
     alt="stevenfukase"
   />
 </p>
