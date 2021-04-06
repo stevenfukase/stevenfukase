@@ -225,6 +225,14 @@
 <p align="center">
   <img
     align="center"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=stevenfukase&layout=compact"
+    alt="stevenfukase"
+  />
+</p>
+
+<p align="center">
+  <img
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=stevenfukase&theme=highcontrast"
     alt="stevenfukase"
   />
