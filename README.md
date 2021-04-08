@@ -209,7 +209,7 @@
 <p align="center">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=stevenfukase&custom_title=Used languages (last 14 days)&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=stevenfukase&custom_title=Languages Used(last 14 days)&layout=compact"
     alt="stevenfukase"
   />
 </p>
