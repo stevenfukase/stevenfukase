@@ -1,5 +1,3 @@
-<h2 align="center">Steven Fukase<br />深瀬スティーヴン</h2>
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=stevenfukase&label=Profile%20views&color=0e75b6&style=flat"
