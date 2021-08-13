@@ -27,7 +27,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfukase&theme=blue-green&layout=compact"
     alt="stevenfukase"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
@@ -36,5 +36,3 @@
     alt="stevenfukase"
   />
 </p>
-
- -->
