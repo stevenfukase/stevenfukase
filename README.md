@@ -5,13 +5,13 @@
   />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/wakatime?username=stevenfukase&layout=compact"
     alt="stevenfukase"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
