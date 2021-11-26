@@ -13,13 +13,13 @@
   />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=stevenfukase&theme=blue-green&show_icons=true&locale=en&count_private=true&hide=stars&include_all_commits=true"
     alt="stevenfukase"
   />
-</p>
+</p> -->
 <!-- 
 <p align="center">
   <img
