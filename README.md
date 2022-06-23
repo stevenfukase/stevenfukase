@@ -5,10 +5,5 @@
     alt="stevenfukase"
   />
 </p>
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenfukase"
-    alt="stevenfukase"
-  />
-</p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
