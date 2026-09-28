@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://streak.stevenfukase.com/?user=stevenfukase&theme=highcontrast"
     alt="stevenfukase's GitHub streak"
   />
-</div>
+</div> -->
 <div align="center">
   <img
     src="./profile-3d-contrib/profile-season-animate.svg"
